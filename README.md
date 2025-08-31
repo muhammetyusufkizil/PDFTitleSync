@@ -16,7 +16,7 @@ This script processes all PDF files in a specified folder and updates their meta
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[YourUsername]/PDFTitleSync.git
+   git clone https://github.com/muhammetyusufkizil/PDFTitleSync.git
 
 
 #### Türkçe Versiyon
@@ -38,4 +38,4 @@ Bu betik, belirtilen bir klasördeki tüm PDF dosyalarını işler ve metadata�
 ## Kurulum
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/[KullanıcıAdınız]/PDFTitleSync.git
+   git clone https://github.com/muhammetyusufkizil/PDFTitleSync.git
